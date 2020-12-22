@@ -6,7 +6,7 @@ Udemy Course: [Dan Sullivan Study Guide](https://www.udemy.com/course/google-cer
 Udemy Course: [Google Certified Associate Cloud Engineer Practice Tests](https://www.udemy.com/course/gcp-ace-practice-tests-latest/)<br>
 Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://linuxacademy.com/cp/modules/view/id/791)<br>
 [Qwiklabs](https://www.qwiklabs.com)<br>
-[Codelabs](https://codelabs.developers.google.com)<br>
+[Codelabs](https://codelabs.developers.google.com/cloud)<br>
 
 ## Curriculum
 ### ======= Module 1 =======
@@ -27,6 +27,8 @@ Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://l
 ##### Excercises:
 ###### Qwiklabs
 - [ ] [Getting Started: Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
+###### Codelabs
+- [ ] [Getting Started with Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-shell)
 
 ### ======= Module 2 =======
 ##### Videos / Quizzes:
@@ -49,6 +51,8 @@ Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://l
 ##### Excercises:
 ###### Qwiklabs
 [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118)
+###### Codelabs
+- [ ] [Google Compute Engine (GCE)](https://codelabs.developers.google.com/codelabs/cloud-compute-engine)
 
 ### ======= Module 3 =======
 ##### Videos / Quizzes:
@@ -71,6 +75,11 @@ Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://l
 ##### Excercises:
 ###### Qwiklabs
 [Deploy to Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/116)
+###### Codelabs
+- [ ] [Deploy, scale, and update your website with Google Kubernetes Engine (GKE)](https://codelabs.developers.google.com/codelabs/cloud-deploy-website-on-gke)
+- [ ] [Getting Started with App Engine](https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3)
+- [ ] [Getting Started with Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-starting-cloudfunctions)
+- [ ] [Deploy a Website with Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run-deploy)
 
 ### ======= Module 4 =======
 ##### Videos / Quizzes:
@@ -89,6 +98,11 @@ Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://l
 ##### Excercises:
 ###### Qwiklabs
 [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
+###### Codelabs
+- [ ] [Cloud Spanner: Your First Database](https://codelabs.developers.google.com/codelabs/cloud-spanner-first-db)
+- [ ] [Connecting to Cloud SQL: Public IP and authorized networks](https://codelabs.developers.google.com/codelabs/cloud-sql-connectivity-ips-public)
+- [ ] [Connecting to Cloud SQL: Compute Engine, Private IP and Cloud SQL Proxy](https://codelabs.developers.google.com/codelabs/cloud-sql-connectivity-gce-private)
+- [ ] [Big Query UI Navigation and Data Exploration](https://codelabs.developers.google.com/codelabs/bigquery-ui-data-exploration)
 
 ### ======= Module 5 =======
 ##### Videos / Quizzes:
@@ -135,9 +149,13 @@ Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://l
 ###### Qwiklabs
 [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119)
 
+##### Practice
+- [ ] Take practice tests 1 - 2
+- [ ] Note weak areas. Review material and read documentation. 
+
 ### ======= Module 8 =======
 - [ ] Take practice tests 3 - 5
-- [ ] Review
+- [ ] Further Review
 - [ ] Take exam
 
 
