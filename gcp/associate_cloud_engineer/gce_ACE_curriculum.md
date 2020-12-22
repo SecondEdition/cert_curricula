@@ -2,13 +2,14 @@
 
 ## Materials:
 Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417)” by Dan Sullivan<br>
-[Dan Sullivan Study Guide - Udemy Course](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/)<br>
-[Google Certified Associate Cloud Engineer 2020 - Linux Academy Course](https://linuxacademy.com/cp/modules/view/id/791)<br>
+Udemy Course: [Dan Sullivan Study Guide](https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/)<br>
+Udemy Course: [Google Certified Associate Cloud Engineer Practice Tests](https://www.udemy.com/course/gcp-ace-practice-tests-latest/)<br>
+Linux Academy Course: [Google Certified Associate Cloud Engineer 2020](https://linuxacademy.com/cp/modules/view/id/791)<br>
 [Qwiklabs](https://www.qwiklabs.com)<br>
 [Codelabs](https://codelabs.developers.google.com)<br>
-[Google Certified Associate Cloud Engineer Practice Tests - Udemy Course](https://www.udemy.com/course/gcp-ace-practice-tests-latest/)<br>
+
 ## Curriculum
-### ======= Week 1 =======
+### ======= Module 1 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 1: Welcome
@@ -23,8 +24,11 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Chapter 1 - Overview of Google Cloud Platform
 - [ ] Chapter 2 - Google Cloud Computing Services
 - [ ] Chapter 3 - Projects, Service Accounts, and Billing
+##### Excercises:
+###### Qwiklabs
+- [ ] [Getting Started: Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
 
-### ======= Week 2 =======
+### ======= Module 2 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 4: Getting Started with Cloud Shell
@@ -38,13 +42,15 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Account Setup
 - [ ] Basic Services
 - [ ] Basic Services Challenge Lab
-
 ##### Reading:
 - [ ] Chapter 4 - Introduction to Computing in Google Cloud
 - [ ] Chapter 5 - Computing with Compute Engine Virtual Machines
 - [ ] Chapter 6 - Managing Virtual Machines
+##### Excercises:
+###### Qwiklabs
+[Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118)
 
-### ======= Week 3 =======
+### ======= Module 3 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 10: Introduction to Kubernetes Engine
@@ -62,8 +68,11 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Chapter 8 - Managing Kubernetes Clusters
 - [ ] Chapter 9 - Computing with App Engine
 - [ ] Chapter 10 - Computing with Cloud Functions
+##### Excercises:
+###### Qwiklabs
+[Deploy to Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/116)
 
-### ======= Week 4 =======
+### ======= Module 4 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 15: Review of GCP Computing Options
@@ -77,8 +86,11 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Chapter 11 - Planning Storage in the Cloud
 - [ ] Chapter 12 - Deploying Storage in Google Cloud Platform
 - [ ] Chapter 13 - Loading Data into Storage
+##### Excercises:
+###### Qwiklabs
+[Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
 
-### ======= Week 5 =======
+### ======= Module 5 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 19: Networking in the Cloud: VPCs and VPNs
@@ -91,7 +103,7 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Chapter 14 - Networking in the Cloud: Virtual Private Cloud and Virtual Private Networks
 - [ ] Chapter 15 - Networking in the Cloud: DNS, Load Balancing, and IP Addressing
 
-### ======= Week 6 =======
+### ======= Module 6 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 22: Deployment Manager
@@ -103,8 +115,11 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Chapter 16 - Deploying Applications with Cloud Launcher and Deployment Manager
 - [ ] Chapter 17 - Configuring Access and Security
 - [ ] Chapter 18 - Monitoring, Logging, and Cost Estimating
+##### Excercises:
+###### Qwiklabs
+[Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150)
 
-### ======= Week 7 =======
+### ======= Module 7 =======
 ##### Videos / Quizzes:
 ###### DS Study Guide
 - [ ] Section 24: Preparing for the Certification Exam
@@ -116,7 +131,13 @@ Book: “[Official Google Cloud Certified Associate Cloud Engineer Study Guide](
 - [ ] Exam Prep
 - [ ] But Wait, there’s more!
 
-### ======= Week 8 =======
-##### Videos / Quizzes:
+##### Excercises:
+###### Qwiklabs
+[Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119)
+
+### ======= Module 8 =======
+- [ ] Take practice tests 3 - 5
+- [ ] Review
+- [ ] Take exam
 
 
