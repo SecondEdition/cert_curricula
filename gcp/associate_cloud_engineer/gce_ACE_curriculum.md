@@ -17,7 +17,7 @@ Labs:<br>
 
 ## Curriculum
 ### ======= Module 1 - Intro / General =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 1: Welcome
 - [ ] Section 2: Introduction to Cloud Computing with GCP
@@ -27,7 +27,7 @@ Labs:<br>
 - [ ] Cert Overview
 - [ ] Intro to Google Cloud Platform
 - [ ] Intro to GCP Products/Services
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 1 - Overview of Google Cloud Platform
 - [ ] Chapter 2 - Google Cloud Computing Services
@@ -35,14 +35,14 @@ Labs:<br>
 ###### Docs:
 [Google Cloud Platform Docs](https://cloud.google.com/docs)<br>
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 - [ ] [Getting Started: Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
 ###### Codelabs
 - [ ] [Getting Started with Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-shell)
 
 ### ======= Module 2 - Compute, Cloud Shell, & APIs =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 4: Getting Started with Cloud Shell
 - [ ] Section 5: Enabling APIs & Resource Hierarchy
@@ -55,7 +55,7 @@ Labs:<br>
 - [ ] Account Setup
 - [ ] Basic Services
 - [ ] Basic Services Challenge Lab
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 4 - Introduction to Computing in Google Cloud
 - [ ] Chapter 5 - Computing with Compute Engine Virtual Machines
@@ -65,14 +65,14 @@ Labs:<br>
 [API Management](https://cloud.google.com/docs#section-6)<br>
 [Management Tools (Cloud Shell)](https://cloud.google.com/docs#section-15)<br>
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118)
 ###### Codelabs
 - [ ] [Google Compute Engine (GCE)](https://codelabs.developers.google.com/codelabs/cloud-compute-engine)
 
 ### ======= Module 3 - Kubernetes & Serverless =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 10: Introduction to Kubernetes Engine
 - [ ] Section 11: Managing Clusters in Kubernetes Clusters
@@ -84,7 +84,7 @@ Labs:<br>
 - [ ] GKE: Google Kubernetes Engine
 - [ ] GAE: Google App Engine
 
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 7 - Computing with Kubernetes
 - [ ] Chapter 8 - Managing Kubernetes Clusters
@@ -94,7 +94,7 @@ Labs:<br>
 [Containers (GKE)](https://cloud.google.com/docs#section-8)<br>
 [Serverless Computing](https://cloud.google.com/docs#section-20)<br>
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 [Deploy to Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/116)
 ###### Codelabs
@@ -104,7 +104,7 @@ Labs:<br>
 - [ ] [Deploy a Website with Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run-deploy)
 
 ### ======= Module 4 - Databases & Storage =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 15: Review of GCP Computing Options
 - [ ] Section 16: Planning and Configuring Storage
@@ -113,7 +113,7 @@ Labs:<br>
 ###### Linux Academy
 - [ ] Services Breadth
 
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 11 - Planning Storage in the Cloud
 - [ ] Chapter 12 - Deploying Storage in Google Cloud Platform
@@ -122,7 +122,7 @@ Labs:<br>
 [Databases](https://cloud.google.com/docs#section-10)<br>
 [Storage](https://cloud.google.com/docs#section-21)<br>
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
 ###### Codelabs
@@ -132,7 +132,7 @@ Labs:<br>
 - [ ] [Big Query UI Navigation and Data Exploration](https://codelabs.developers.google.com/codelabs/bigquery-ui-data-exploration)
 
 ### ======= Module 5 - Networking =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 19: Networking in the Cloud: VPCs and VPNs
 - [ ] Section 20: Networking in the Cloud: IP Addressing, Firewals, Subnets, Load Balancing, and DNS
@@ -140,7 +140,7 @@ Labs:<br>
 ###### Linux Academy
 - [ ] Networking
 
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 14 - Networking in the Cloud: Virtual Private Cloud and Virtual Private Networks
 - [ ] Chapter 15 - Networking in the Cloud: DNS, Load Balancing, and IP Addressing
@@ -148,14 +148,14 @@ Labs:<br>
 [Networking](https://cloud.google.com/docs#section-18)<br>
 
 ### ======= Module 6 - Security, IAM, & Operations =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 22: Deployment Manager
 - [ ] Section 23: Monitoring
 ###### Linux Academy
 - [ ] Security
 
-##### Reading:
+#### Reading:
 ###### DS Study Guide Book
 - [ ] Chapter 16 - Deploying Applications with Cloud Launcher and Deployment Manager
 - [ ] Chapter 17 - Configuring Access and Security
@@ -164,12 +164,12 @@ Labs:<br>
 [Security & Identity](https://cloud.google.com/docs#section-19)<br>
 [Operations](https://cloud.google.com/docs#section-22)<br>
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150)
 
 ### ======= Module 7 - Exam Preparation =======
-##### Videos / Quizzes:
+#### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 24: Preparing for the Certification Exam
 - [ ] Section 25: Conclusion
@@ -180,11 +180,11 @@ Labs:<br>
 - [ ] Exam Prep
 - [ ] But Wait, there’s more!
 
-##### Excercises:
+#### Excercises:
 ###### Qwiklabs
 [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119)
 
-##### Practice
+#### Practice
 - [ ] Take practice tests 1 - 2
 - [ ] Note weak areas. Review material and read documentation. 
 
