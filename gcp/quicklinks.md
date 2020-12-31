@@ -33,7 +33,7 @@
 [Other(Firebase)](https://cloud.google.com/docs#section-23)<br>
 
 ## Other GCP Resources
-[Google Cloude Solutions](https://cloud.google.com/solutions)
-[Google Cloud Solutions Architecture Reference](https://gcp.solutions)
-[SDK docs](https://cloud.google.com/sdk/docs)
-[gcloud command reference](https://cloud.google.com/sdk/gcloud/reference)
+[Google Cloude Solutions](https://cloud.google.com/solutions)<br>
+[Google Cloud Solutions Architecture Reference](https://gcp.solutions)<br>
+[SDK docs](https://cloud.google.com/sdk/docs)<br>
+[gcloud command reference](https://cloud.google.com/sdk/gcloud/reference)<br>
