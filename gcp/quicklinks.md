@@ -31,3 +31,9 @@
 [Storage](https://cloud.google.com/docs#section-21)<br>
 [Operations](https://cloud.google.com/docs#section-22)<br>
 [Other(Firebase)](https://cloud.google.com/docs#section-23)<br>
+
+## Other GCP Resources
+[Google Cloude Solutions](https://cloud.google.com/solutions)
+[Google Cloud Solutions Architecture Reference](https://gcp.solutions)
+[SDK docs](https://cloud.google.com/sdk/docs)
+[gcloud command reference](https://cloud.google.com/sdk/gcloud/reference)
