@@ -16,7 +16,11 @@ Labs:<br>
 [Codelabs](https://codelabs.developers.google.com/cloud)<br>
 
 ## Curriculum
-### ======= Module 1 - Intro / General =======
+Modules can be completed on average in a week. Some more, some less, depending on additional workload and experience.<br>
+<br>
+Use exam guide to focus on relevant sections when reviewing documentation sections linked in each module. 
+***
+### Module 1 - Orientation
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 1: Welcome
@@ -40,8 +44,8 @@ Labs:<br>
 - [ ] [Getting Started: Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
 ###### Codelabs
 - [ ] [Getting Started with Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-shell)
-
-### ======= Module 2 - Compute, Cloud Shell, & APIs =======
+***
+### Module 2 - Compute, Cloud Shell, & APIs
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 4: Getting Started with Cloud Shell
@@ -70,8 +74,8 @@ Labs:<br>
 [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118)
 ###### Codelabs
 - [ ] [Google Compute Engine (GCE)](https://codelabs.developers.google.com/codelabs/cloud-compute-engine)
-
-### ======= Module 3 - Kubernetes & Serverless =======
+***
+### Module 3 - Kubernetes & Serverless
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 10: Introduction to Kubernetes Engine
@@ -102,8 +106,8 @@ Labs:<br>
 - [ ] [Getting Started with App Engine](https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3)
 - [ ] [Getting Started with Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-starting-cloudfunctions)
 - [ ] [Deploy a Website with Cloud Run](https://codelabs.developers.google.com/codelabs/cloud-run-deploy)
-
-### ======= Module 4 - Databases & Storage =======
+***
+### Module 4 - Databases & Storage
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 15: Review of GCP Computing Options
@@ -130,8 +134,8 @@ Labs:<br>
 - [ ] [Connecting to Cloud SQL: Public IP and authorized networks](https://codelabs.developers.google.com/codelabs/cloud-sql-connectivity-ips-public)
 - [ ] [Connecting to Cloud SQL: Compute Engine, Private IP and Cloud SQL Proxy](https://codelabs.developers.google.com/codelabs/cloud-sql-connectivity-gce-private)
 - [ ] [Big Query UI Navigation and Data Exploration](https://codelabs.developers.google.com/codelabs/bigquery-ui-data-exploration)
-
-### ======= Module 5 - Networking =======
+***
+### Module 5 - Networking
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 19: Networking in the Cloud: VPCs and VPNs
@@ -146,8 +150,8 @@ Labs:<br>
 - [ ] Chapter 15 - Networking in the Cloud: DNS, Load Balancing, and IP Addressing
 ###### Docs:
 [Networking](https://cloud.google.com/docs#section-18)<br>
-
-### ======= Module 6 - Security, IAM, & Operations =======
+***
+### Module 6 - Security, IAM, & Operations
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 22: Deployment Manager
@@ -167,8 +171,8 @@ Labs:<br>
 #### Excercises:
 ###### Qwiklabs
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150)
-
-### ======= Module 7 - Exam Preparation =======
+***
+### Module 7 - Exam Preparation
 #### Videos / Quizzes:
 ###### DS Study Guide Course
 - [ ] Section 24: Preparing for the Certification Exam
@@ -187,8 +191,8 @@ Labs:<br>
 #### Practice
 - [ ] Take practice tests 1 - 2
 - [ ] Note weak areas. Review material and read documentation. 
-
-### ======= Module 8 - Final =======
+***
+### Module 8 - Final
 - [ ] Take practice tests 3 - 5
 - [ ] Further Review
 - [ ] Take exam
